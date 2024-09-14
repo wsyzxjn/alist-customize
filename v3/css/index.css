@@ -57,11 +57,11 @@ div#root {
 }
 
 /**管理后台*/
-/*
+
 div#root div.hope-c-PJLV-iiLzBwx-css {
   background: transparent;
 }
-*/
+
 
 /**头部*/
 div#root div.hope-c-PJLV-iiLzBwx-css header {
@@ -242,7 +242,7 @@ div#root div.body svg {
 
 /**底部*/
 div#root div.footer {
-  display: none;
+  opacity: 0.3
 }
 
 /**工具栏*/
