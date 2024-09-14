@@ -312,3 +312,8 @@ div.hope-c-PJLV-ibcBsNO-css .hope-c-PJLV-ifjOQLV-css {
 div.hope-c-PJLV-ibcBsNO-css div.hope-c-PJLV-idKXllh-css a {
   display: none;
 }
+
+/**隐藏顶部加密图标**/
+div[style*="position: fixed"][style*="z-index:10010"][style*="top:7px"][style*="margin-left: 50%"] {
+  display: none
+}
