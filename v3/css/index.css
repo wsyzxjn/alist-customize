@@ -42,7 +42,7 @@ body::before {
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(https://src.amatsuka.xyz/20240410/AQAD6MAxG0NruVR-.jpg); /* 背景图片，可自行替换 */
+  background-image: url(https://src.amatsuka.pro/20240410/AQAD6MAxG0NruVR-.jpg); /* 背景图片，可自行替换 */
   z-index: 0;
 }
       
@@ -53,7 +53,7 @@ body::before {
 
 @media screen and (max-width: 960px) {
   body::before {
-    background-image: url(https://src.amatsuka.xyz/20240410/AQAD6MAxG0NruVR-.jpg); /* 竖屏背景图片，可自行替换 */
+    background-image: url(https://src.amatsuka.pro/20240410/AQAD6MAxG0NruVR-.jpg); /* 竖屏背景图片，可自行替换 */
   }
       
     
